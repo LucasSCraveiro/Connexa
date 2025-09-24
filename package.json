@@ -1,0 +1,22 @@
+{
+  "name": "connexa",
+  "version": "1.0.0",
+  "description": "📌 Cenário Fictício\r Produto: Connexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasSCraveiro/Connexa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasSCraveiro/Connexa/issues"
+  },
+  "homepage": "https://github.com/LucasSCraveiro/Connexa#readme",
+  "dependencies": {
+    "mongoose": "^8.18.2"
+  }
+}
